@@ -1,0 +1,33 @@
+
+h2{
+    background-image: url('neon-green-honeycomb-matrix-6innruoaax2z3uxw.jpg');
+    background-size: cover;
+    color: blueviolet;
+}
+table{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+ }
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("wp12568662-the-matrix-4k-wallpapers.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+  }
+div{
+    background-image: url('beautiful-mountains-landscape.jpg');
+    background-size: cover;
+
+        background-color: #cccccc;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        
+}
